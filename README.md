@@ -1,7 +1,5 @@
 # Learning blockchain
 
-## Project Tutorial
-
 ### blockchain-go
 - [基本原型](https://ethfans.org/posts/building-blockchain-in-go-part-1)
 - [工作量证明](http://ethfans.org/ajian1984/articles/building-blockchain-in-go-part-2)
